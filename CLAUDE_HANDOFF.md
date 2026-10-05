@@ -17,7 +17,7 @@ dealers, warranty, offers): nothing is booked or stored.
 
 | Part | Status |
 |---|---|
-| Knowledge base: 6 Greek PDFs (`knowledge_base/`) | ✅ Built. ⏳ **The user uploads them to Google Drive and adds them to the ElevenLabs knowledge base, then we run `setup_agent.py` to attach them** |
+| Knowledge base: 6 Greek PDFs (`knowledge_base/`) | ✅ Uploaded by the user and attached (5 Oct 2026), text read correctly, RAG-indexed |
 | Knowledge base: 8 official web pages, auto-sync every 7 days | ✅ Attached and RAG-indexed |
 | Agent Katerina (Greek, English preset, Eleven v4 Turbo, native Greek voice) | ✅ Created 5 Oct 2026 |
 | Website `web/`: no sign-up, no sign-in, just talk | ✅ Built and checked locally. ⏳ The user deploys it on Vercel |
@@ -102,8 +102,10 @@ FO-02 - Greek - Elevenlabs v4 - for Grand Automotive/
   6. FAQ (35 questions).
 - **8 official web pages with auto-sync every 7 days** (`URLS` in `setup_agent.py`): Renault and Dacia ranges and prices, Dacia
   Your Way, Renault after-sales, Dacia warranty, rnlt© Athens, and the two Auto Athina pages (auto-remove on, like the offer).
-  Two pages were **retired** (`retired_documents` in `agent_ids.json`): ElevenLabs' copy of renault.gr/contact.html misses the
-  phone and e-mail, and its copy of grandautomotive.eu/where-we-operate drops brands. They stay unused in the workspace library.
+  Two pages were **retired** (`retired_documents` in `agent_ids.json`; `setup_agent.py` never re-attaches them): ElevenLabs' copy
+  of renault.gr/contact.html misses the phone and e-mail, and its copy of grandautomotive.eu/where-we-operate drops brands (for
+  Greece it lists only Dacia and Ineos). The user had attached them again in the dashboard; detached on 5 Oct 2026. No agent uses
+  them; the user deletes them from the library (we don't delete things from the account ourselves).
 - No published roadside-assistance number on renault.gr / dacia.gr today (an old Dacia page is gone): the agent sends callers to
   the car's documents, the dealer or customer care. No official INEOS showroom found for Cyprus.
 
@@ -149,8 +151,8 @@ pressing the call button; agent config and RAG index statuses read back from the
 
 ## 6. Next steps (in order)
 
-1. **The user uploads the 6 PDFs** (Google Drive, then ElevenLabs → Knowledge Base → add from Google Drive, keeping the file
-   names). Then run `setup_agent.py`: it attaches and indexes them.
+1. ~~**The user uploads the 6 PDFs**~~ ✅ Done on 5 Oct 2026 (attached and indexed: 14 documents in total). After rebuilding a
+   PDF, the user replaces it in ElevenLabs with the same name, then run `setup_agent.py`.
 2. **The user deploys `web/` on Vercel** (§5) and tests with the questions in §7.
 3. Possible next steps (ask the user): demo booking of test drives / service appointments (like Budget Arabia's tools); a
    human hand-over; a phone number; a voice change after listening.
