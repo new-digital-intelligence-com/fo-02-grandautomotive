@@ -1,0 +1,2185 @@
+{
+ "source": "https://rsidealerlocator.makolab.pl/service/dealers.svc/dealers/gr",
+ "dealers": [
+  {
+   "AddressLine1": "Λ. Ανδρέα Παπανδρέου 96",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Γλυφάδα",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "7ccc8a1d-176f-400b-bc3e-508e34e00237",
+   "DealerName": "ALPHA AUTOTEAM A.E.",
+   "Email": "dapanomeritakis@alphaautoteam.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 37.87597,
+   "Longitude": 23.757548,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-9602556",
+   "Postcode": "166 74",
+   "ShortName": "",
+   "UniqueId": "30007815",
+   "WebsiteUrl": ""
+  },
+  {
+   "AddressLine1": "Λεωφ. Αθηνών 243Α",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Χαϊδάρι",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "fac457e7-2042-4a67-a8a3-c51317669569",
+   "DealerName": "AUTOUNIT ΠΟΥΛΑΚΗΣ Α.Ε.Β.Ε.",
+   "Email": "sales@poulakis.gr",
+   "Fax": "210-5320205",
+   "Importer": "",
+   "Latitude": 38.0113,
+   "Longitude": 23.6522,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-5820821",
+   "Postcode": "124 61",
+   "ShortName": "",
+   "UniqueId": "29060",
+   "WebsiteUrl": "https://npoulakis.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Λεωφ. Μαραθώνος 169",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Γέρακας",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "a2b6faf6-5cb4-40ec-9d41-82e9c1eb4ff9",
+   "DealerName": "ΕΚΚΑ ΑΥΤΟΚΙΝΗΤΑ Α.Ε.",
+   "Email": "nikos.ioannou@ekka.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 38.006632,
+   "Longitude": 23.865898,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-3498000",
+   "Postcode": "153 44",
+   "ShortName": "",
+   "UniqueId": "30007821",
+   "WebsiteUrl": "https://ekka.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Λ. Κηφισίας 6-8, Μαρούσι",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71"
+   ],
+   "City": "Μαρούσι",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "f9b1cc24-e3d2-49d3-990c-dea61bd59c94",
+   "DealerName": "ΕΚΚΑ ΑΥΤΟΚΙΝΗΤΑ Α.Ε.",
+   "Email": "nikos.ioannou@ekka.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 38.034486,
+   "Longitude": 23.796544,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-3498000",
+   "Postcode": "15125",
+   "ShortName": "",
+   "UniqueId": "7821",
+   "WebsiteUrl": "https://ekka.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Θηβών 97-103",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Πειραιάς",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "945f0e28-7a0b-4c50-af3d-f4399e586d9d",
+   "DealerName": "ΚΥΡΙΑΚΟΥΔΗΣ Α.Ε.",
+   "Email": "dealers.sales@kyriakoudis.gr",
+   "Fax": "210-4917978",
+   "Importer": "",
+   "Latitude": 37.961229,
+   "Longitude": 23.656159,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-4202222",
+   "Postcode": "185 42",
+   "ShortName": "",
+   "UniqueId": "029133",
+   "WebsiteUrl": "https://kyriakoudis.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Μιχαλακοπούλου 140",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71"
+   ],
+   "City": "Αθήνα",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "cd5faf75-e744-436d-ba79-152ed7d2a3fa",
+   "DealerName": "ΠΛΑΜΑΡ A.E.",
+   "Email": "plamar@otenet.gr",
+   "Fax": "210-7757953",
+   "Importer": "",
+   "Latitude": 37.98229,
+   "Longitude": 23.76154,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-7713000",
+   "Postcode": "115 27",
+   "ShortName": "",
+   "UniqueId": "21218",
+   "WebsiteUrl": "https://plamar.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Πόντου 38-40",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Αθήνα",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "8bceb536-7239-49f7-a930-d74c80173aac",
+   "DealerName": "ΠΛΑΜΑΡ A.E.",
+   "Email": "plamar@otenet.gr",
+   "Fax": "210-7796951",
+   "Importer": "",
+   "Latitude": 37.98096,
+   "Longitude": 23.75919,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-7484884",
+   "Postcode": "115 27",
+   "ShortName": "",
+   "UniqueId": "021218",
+   "WebsiteUrl": "https://plamar.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Λ. Συγγρού 242",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71"
+   ],
+   "City": "Καλλιθέα",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "fb95784e-674f-4438-a90a-ab05c0711b15",
+   "DealerName": "ΧΑΛΚΙΑΣ Ε.Π.Ε.",
+   "Email": "jkarzis@halkiasgroup.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 37.95092,
+   "Longitude": 23.708439,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210 953 10 08",
+   "Postcode": "176 72",
+   "ShortName": "",
+   "UniqueId": "95009080",
+   "WebsiteUrl": ""
+  },
+  {
+   "AddressLine1": "Πειραιώς 22",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Μοσχάτο",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "7ec6cd70-58b5-4825-9be7-935b4b4e700c",
+   "DealerName": "ΧΑΛΚΙΑΣ Ε.Π.Ε.",
+   "Email": "jkarzis@halkiasgroup.gr",
+   "Fax": "210 94 18 755",
+   "Importer": "",
+   "Latitude": 37.955684,
+   "Longitude": 23.676773,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210 94 19 662",
+   "Postcode": "183 46",
+   "ShortName": "",
+   "UniqueId": "095009080",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "Αιτωλικού 134 & Κουμουνδούρου 55",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Πειραιάς",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "074f662c-d9c2-48c6-8d14-715750e5e78e",
+   "DealerName": "Γ. ΜΟΣΧΟΠΟΥΛΟΣ & ΣΙΑ Ο.Ε.",
+   "Email": "peiren@otenet.gr",
+   "Fax": "210-4919400",
+   "Importer": "",
+   "Latitude": 37.95899,
+   "Longitude": 23.63982,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-4935424",
+   "Postcode": "185 44",
+   "ShortName": "",
+   "UniqueId": "21241",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "Εθνικής Αντιστάσεως 43 & Σαρανταπόρου",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Χαλάνδρι",
+   "CountryId": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+   "CountryName": "ΑΤΤΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "cf095617-d54e-4857-b50b-33424e7f00b0",
+   "DealerName": "SPORTEAM Ι.Κ.Ε",
+   "Email": "info@protech-sa.gr",
+   "Fax": "210-6728065",
+   "Importer": "",
+   "Latitude": 38.014977,
+   "Longitude": 23.790251,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "210-6726742",
+   "Postcode": "152 34",
+   "ShortName": "",
+   "UniqueId": "021452",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "7ο χλμ. Ε.Ο. Θεσσαλονίκης-Μουδανιών",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Θεσσαλονίκη",
+   "CountryId": "6d699cfb-8ba8-48d0-b54f-f954921fe8b1",
+   "CountryName": "ΘΕΣΣΑΛΟΝΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "db2b392e-f7d4-4010-b027-fb70096b75ea",
+   "DealerName": "GA MOTORS",
+   "Email": "Thanasis.Katafygiotis@gamotors.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 40.57723,
+   "Longitude": 22.981914,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2314 17 65 34",
+   "Postcode": "55535",
+   "ShortName": "",
+   "UniqueId": "07819",
+   "WebsiteUrl": ""
+  },
+  {
+   "AddressLine1": "26ης Οκτωβρίου 70",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Θεσσαλονίκη",
+   "CountryId": "6d699cfb-8ba8-48d0-b54f-f954921fe8b1",
+   "CountryName": "ΘΕΣΣΑΛΟΝΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "327e5d09-4452-44cd-87b4-9c5537d400ba",
+   "DealerName": "ΒΙΟ-ΚΑΡ PLUS Ε.Π.Ε.",
+   "Email": "kviolitzis@gmail.com",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 40.641948,
+   "Longitude": 22.916374,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2310 50 60 10",
+   "Postcode": "546 27",
+   "ShortName": "",
+   "UniqueId": "29134",
+   "WebsiteUrl": "https://viokar.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "2ο χλμ. Νέα Ε.Ο. Λαμίας-Αθήνας",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Λαμία",
+   "CountryId": "d5a4b1f4-dd45-4e15-9263-e3299cc48f89",
+   "CountryName": "ΦΘΙΩΤΙΔΑ",
+   "DealerGroup": "",
+   "DealerId": "38f4e49d-dee5-4e17-830d-9f9d682a1e3c",
+   "DealerName": "AUTOCLUB ΛAMIAΣ A.E.",
+   "Email": "sales@autoclublamias.gr",
+   "Fax": "2231-022.980",
+   "Importer": "",
+   "Latitude": 38.88274,
+   "Longitude": 22.45127,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2231-053.250, 2231-022.563",
+   "Postcode": "351 00",
+   "ShortName": "",
+   "UniqueId": "21253",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "Ν.Ε.Ο Πατρών – Αθηνών 202, Πάτρα",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71"
+   ],
+   "City": "Πάτρα",
+   "CountryId": "063c5a7a-e440-41fa-a45b-c30e2d9d0e30",
+   "CountryName": "ΑΧΑΪΑ",
+   "DealerGroup": "",
+   "DealerId": "9133442c-39ba-4eb5-9c01-93c14768a2a3",
+   "DealerName": "AUTOCLUB ΠΑΤΡΑΣ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε",
+   "Email": "alfiser@otenet.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 38.279642,
+   "Longitude": 21.766385,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2610 420 373",
+   "Postcode": "26443",
+   "ShortName": "",
+   "UniqueId": "7816",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "Ν.Ε.Ο Πατρών – Αθηνών 106, Θέση Κοτρώνι",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Πάτρα",
+   "CountryId": "063c5a7a-e440-41fa-a45b-c30e2d9d0e30",
+   "CountryName": "ΑΧΑΪΑ",
+   "DealerGroup": "",
+   "DealerId": "00c40b4c-59f9-4879-a908-68973368dd10",
+   "DealerName": "AUTOCLUB ΠΑΤΡΑΣ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε",
+   "Email": "alfiser@otenet.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 38.270839,
+   "Longitude": 21.757817,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2610 420 373",
+   "Postcode": "264 42",
+   "ShortName": "",
+   "UniqueId": "07816",
+   "WebsiteUrl": ""
+  },
+  {
+   "AddressLine1": "5ο χλμ Χαλκίδας - Αρτάκης",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Χαλκίδα",
+   "CountryId": "fca53591-93c5-45bb-8454-084184ce606c",
+   "CountryName": "ΕΥΒΟΙΑ",
+   "DealerGroup": "",
+   "DealerId": "4bf5a83b-ae1f-45f6-8d0c-ef6b42447434",
+   "DealerName": "EVIA MOTORS Α.Ε.",
+   "Email": "eviamtr@otenet.gr",
+   "Fax": "2221-041.414",
+   "Importer": "",
+   "Latitude": 38.496963,
+   "Longitude": 23.634124,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2221-041.110, 2221-045.110",
+   "Postcode": "341 00",
+   "ShortName": "",
+   "UniqueId": "29129",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "3ο χλμ Ε.Ο. Ηρακλείου - Μοιρών",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71"
+   ],
+   "City": "Ηράκλειο",
+   "CountryId": "b6255971-f9bf-48e3-8541-bac505acb4be",
+   "CountryName": "ΗΡΑΚΛΕΙΟ",
+   "DealerGroup": "",
+   "DealerId": "0510577e-efe5-4801-9209-a54a1945d474",
+   "DealerName": "PYRAMISAUTO E.Π.Ε.",
+   "Email": "info@pyramisauto.gr",
+   "Fax": "2810-256.206",
+   "Importer": "",
+   "Latitude": 35.306847,
+   "Longitude": 25.095301,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2810-256.101",
+   "Postcode": "715 00",
+   "ShortName": "",
+   "UniqueId": "29132",
+   "WebsiteUrl": "https://pyramis.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "1ο χλμ Ε.Ο. Ηρακλείου - Μοιρών",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Ηράκλειο",
+   "CountryId": "b6255971-f9bf-48e3-8541-bac505acb4be",
+   "CountryName": "ΗΡΑΚΛΕΙΟ",
+   "DealerGroup": "",
+   "DealerId": "6fd892fe-32af-43ec-bbba-75f131e19df9",
+   "DealerName": "PYRAMISAUTO E.Π.Ε.",
+   "Email": "info@pyramisauto.gr",
+   "Fax": "2810-256.206",
+   "Importer": "",
+   "Latitude": 35.315352,
+   "Longitude": 25.098298,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2810-256.101",
+   "Postcode": "715 00",
+   "ShortName": "",
+   "UniqueId": "029132",
+   "WebsiteUrl": "https://pyramis.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "10ο χλμ Ιωαννίνων-Αθηνών",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Ιωάννινα",
+   "CountryId": "83895d32-314f-464e-9b12-b25af02e89bb",
+   "CountryName": "ΙΩΑΝΝΙΝΑ",
+   "DealerGroup": "",
+   "DealerId": "d66a1c61-f6c9-4dca-a658-19df6ea91ef2",
+   "DealerName": "Α. ΖΥΓΟΥΡΑΣ Α.Ε.",
+   "Email": "renault.zigouras@gmail.com",
+   "Fax": "26510-93744",
+   "Importer": "",
+   "Latitude": 39.5749,
+   "Longitude": 20.8642,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "26510-91474",
+   "Postcode": "45500",
+   "ShortName": "",
+   "UniqueId": "29126",
+   "WebsiteUrl": "https://zigouras-ioannina.renault-net.gr"
+  },
+  {
+   "AddressLine1": "Χ. Τρικούπη 163",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Αγρίνιο",
+   "CountryId": "85c2eb6b-19b3-469b-96bb-6cb2f22ff810",
+   "CountryName": "ΑΙΤΩΛ/ΝΑΝΙΑ",
+   "DealerGroup": "",
+   "DealerId": "ff407db4-93a4-4771-8fc7-e32e3ae194a7",
+   "DealerName": "Α. ΖΥΓΟΥΡΑΣ Α.Ε.",
+   "Email": "renault.zigouras@gmail.com",
+   "Fax": "26410-25285",
+   "Importer": "",
+   "Latitude": 38.6084,
+   "Longitude": 21.4143,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "26410-33130",
+   "Postcode": "30100",
+   "ShortName": "",
+   "UniqueId": "29125",
+   "WebsiteUrl": "https://zigouras-agrinio.renault-net.gr"
+  },
+  {
+   "AddressLine1": "3ο χλμ. Ε.Ο. Ξάνθης-Καβάλας",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Ξάνθη",
+   "CountryId": "dc443a92-cc03-4b0c-aee4-aecd640af9e5",
+   "CountryName": "ΞΑΝΘΗ",
+   "DealerGroup": "",
+   "DealerId": "1661d013-2b44-4e5c-9f3e-b8c7b8eb2ecf",
+   "DealerName": "Α. ΘΑΓΓΟΠΟΥΛΟΣ & ΣΙΑ Ο.Ε.",
+   "Email": "dealtago@otenet.gr",
+   "Fax": "2541-074.949",
+   "Importer": "",
+   "Latitude": 41.1069,
+   "Longitude": 24.8663,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2541-073.232",
+   "Postcode": "671 00",
+   "ShortName": "",
+   "UniqueId": "25168",
+   "WebsiteUrl": "https://thagopoulos.renault-net.gr"
+  },
+  {
+   "AddressLine1": "3ο χλμ Ε.Ο. Πέλεκα - Αλεπούς",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Κέρκυρα",
+   "CountryId": "cbfd370e-2d68-4950-902f-a6bad4704a8c",
+   "CountryName": "ΚΕΡΚΥΡΑ",
+   "DealerGroup": "",
+   "DealerId": "6ecc1f47-322e-424e-a97a-d0f7745edca1",
+   "DealerName": "A. ΜΠΟΪΚΟΣ - Κ. ΚΟΝΤΟΣ Ε.Π.Ε.",
+   "Email": "",
+   "Fax": "2661-048.944",
+   "Importer": "",
+   "Latitude": 39.61428,
+   "Longitude": 19.89145,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2661-048.944",
+   "Postcode": "49100",
+   "ShortName": "",
+   "UniqueId": "28180",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "1ο χλμ Ε.Ο. Ν. Μουδανιών - Σιθωνίας",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Χαλκιδική",
+   "CountryId": "89a4679f-a536-4d93-8e0e-177c3837b5f9",
+   "CountryName": "ΧΑΛΚΙΔΙΚΗ",
+   "DealerGroup": "",
+   "DealerId": "211272b5-fe70-4bb7-a82e-dbfec69a55d2",
+   "DealerName": "Χ.Α. ΤΣΙΓΓΕΛΙΔΗΣ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.",
+   "Email": "renaulta@otenet.gr",
+   "Fax": "2373-026.294",
+   "Importer": "",
+   "Latitude": 40.24438,
+   "Longitude": 23.3023,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2373-026.293",
+   "Postcode": "632 00",
+   "ShortName": "",
+   "UniqueId": "21232",
+   "WebsiteUrl": "https://tsigelidis.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "3ο χλμ. Ε.Ο. Λάρισας-Αθήνας",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Λάρισα",
+   "CountryId": "3b059c37-e85d-4248-8a14-8ed3b27cf392",
+   "CountryName": "ΛΑΡΙΣΑ",
+   "DealerGroup": "",
+   "DealerId": "a322e6e4-5e7f-4830-95ca-6b8b43e875d4",
+   "DealerName": "ΑΘ. ΝΑΣΙΑΚΟΠΟΥΛΟΣ A.Ε.",
+   "Email": "renault@nasiakopoulos.gr",
+   "Fax": "2410-661.537",
+   "Importer": "",
+   "Latitude": 39.6073,
+   "Longitude": 22.43953,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2410-671.353",
+   "Postcode": "413 36",
+   "ShortName": "",
+   "UniqueId": "21250",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "2ο χλμ. Ε.Ο. Λιβαδειάς-Λαμίας",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Λιβαδειά",
+   "CountryId": "cb6c2b58-1537-499a-8b68-6ecc2b84a8a4",
+   "CountryName": "ΒΟΙΩΤΙΑ",
+   "DealerGroup": "",
+   "DealerId": "8a6cdb67-ef35-489d-97e8-ddf7fdc83428",
+   "DealerName": "ΑΦΟΙ ΓΕΩΡΓΟΠΟΥΛΟΙ Α.Ε.Β.Ε.",
+   "Email": "georgsa@otenet.gr",
+   "Fax": "2261-022.312",
+   "Importer": "",
+   "Latitude": 38.455,
+   "Longitude": 22.88357,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2261-025.522",
+   "Postcode": "321 00",
+   "ShortName": "",
+   "UniqueId": "21315",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "8ο χλμ. Σερρών-Θεσσαλονίκης",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Σέρρες",
+   "CountryId": "4e1c86ad-dfa9-40a0-a584-17cc2dd797be",
+   "CountryName": "ΣΕΡΡΕΣ",
+   "DealerGroup": "",
+   "DealerId": "cf548b96-e2e4-4469-bb9f-a4d3f72c8135",
+   "DealerName": "ΑΦΟΙ ΙΩΑΝΝΙΔΗ Α.E.",
+   "Email": "renault-sales@ioannidis-bros.gr",
+   "Fax": "2321-080.004",
+   "Importer": "",
+   "Latitude": 41.09429,
+   "Longitude": 23.467,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2321-080.000",
+   "Postcode": "215 10",
+   "ShortName": "",
+   "UniqueId": "21510",
+   "WebsiteUrl": "http://ioannidis-bros.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Κόμβος Π.Ε.Ο. Κατερίνης - Θεσσαλονίκης",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Κατερίνη",
+   "CountryId": "73a4d44f-6b70-4fe0-9211-fb7ef2b7ffd6",
+   "CountryName": "ΠΙΕΡΙΑ",
+   "DealerGroup": "",
+   "DealerId": "9d693a63-796d-4f1a-a264-e8a5130b77c3",
+   "DealerName": "ΓΕΩΡΓΙΟΣ Θ. ΤΖΙΛΙΝΗΣ",
+   "Email": "info@tzilinis.gr",
+   "Fax": "2351-045649",
+   "Importer": "",
+   "Latitude": 40.279729,
+   "Longitude": 22.518238,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2351-045640",
+   "Postcode": "60100",
+   "ShortName": "",
+   "UniqueId": "29131",
+   "WebsiteUrl": "https://tzilinis.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "8ο χλμ Καβάλας – Ελευθερούπολης, Αμισιανά",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Καβάλα",
+   "CountryId": "8d1b64d6-f2af-45c4-b930-d096d919281c",
+   "CountryName": "ΚΑΒΑΛΑ",
+   "DealerGroup": "",
+   "DealerId": "9546a968-783c-46b0-bf82-ef14f09b6c32",
+   "DealerName": "Γ. ΚΑΡΑΛΕΥΘΕΡΗΣ – Α. ΚΑΦΕΤΖΗΣ ΚΑΙ ΣΙΑ Ο.Ε.",
+   "Email": "info.renault.kva@gmail.com",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 40.945256,
+   "Longitude": 24.340172,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2510 317 173",
+   "Postcode": "641 00",
+   "ShortName": "",
+   "UniqueId": "07818",
+   "WebsiteUrl": ""
+  },
+  {
+   "AddressLine1": "2ο χλμ Π.Ο Καρδίτσας – Τρικάλων",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Καρδίτσα",
+   "CountryId": "f86c51a9-3ca6-42e3-911b-34d3737ab493",
+   "CountryName": "ΚΑΡΔΙΤΣΑ",
+   "DealerGroup": "",
+   "DealerId": "79503b25-8b05-4ee2-a5bb-0781d84425d6",
+   "DealerName": "Ι. ΚΑΙ Α. ΔΕΜΕΡΛΙΩΤΗΣ Ι.Κ.Ε",
+   "Email": "giannisdemerliotis@gmail.com",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 39.384151,
+   "Longitude": 21.933077,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2441 076 150",
+   "Postcode": "431 00",
+   "ShortName": "",
+   "UniqueId": "07817",
+   "WebsiteUrl": ""
+  },
+  {
+   "AddressLine1": "2ο χλμ. Ε.Ο. Κοζάνης-Λάρισας",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Κοζάνη",
+   "CountryId": "f4d86007-cc27-4cbd-ad42-869381a38aed",
+   "CountryName": "ΚΟΖΑΝΗ",
+   "DealerGroup": "",
+   "DealerId": "11fae8da-2a3d-4b5a-90cd-28cbbdfb9f58",
+   "DealerName": "ΚΑΤΑΚΗΣ Α.Ε.",
+   "Email": "gagrafiotis@katakis.gr",
+   "Fax": "2461-041.624",
+   "Importer": "",
+   "Latitude": 40.2965,
+   "Longitude": 21.8251,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2461-041.630, 2461-041.666",
+   "Postcode": "501 00",
+   "ShortName": "",
+   "UniqueId": "21517",
+   "WebsiteUrl": "http://katakis.renault-net.gr"
+  },
+  {
+   "AddressLine1": "2o χλμ Εθνικής Οδού Ρεθύμνου-Χανιών",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Ρέθυμνο",
+   "CountryId": "eaaaf18f-7d37-4697-9822-8ff47c603eff",
+   "CountryName": "ΡΕΘΥΜΝΟ",
+   "DealerGroup": "",
+   "DealerId": "0505d8d2-399b-4f9f-b75a-42ba3d57eef2",
+   "DealerName": "Κ. ΣΤΑΡΕΝΙΟΣ ΜΟΝ. Ε.Π.Ε.",
+   "Email": "renault@kstarenios.gr",
+   "Fax": "2831-051.529",
+   "Importer": "",
+   "Latitude": 35.366936,
+   "Longitude": 24.432831,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2831-027.150",
+   "Postcode": "741 00",
+   "ShortName": "",
+   "UniqueId": "21247",
+   "WebsiteUrl": "https://starenios.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Αρχαία Κόρινθος - Περιοχή Κουτουμάτσα",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Κόρινθος",
+   "CountryId": "4844ec17-d490-4af2-b569-9a15ee08b260",
+   "CountryName": "ΚΟΡΙΝΘΙΑ",
+   "DealerGroup": "",
+   "DealerId": "95f62d61-47cc-4a1a-9c41-80dbcf5196f6",
+   "DealerName": "ΜΟΥΣΤΑΚΑΣ Α.Ε.",
+   "Email": "moustakas@kor.forthnet.gr",
+   "Fax": "2741-074.155",
+   "Importer": "",
+   "Latitude": 37.918655,
+   "Longitude": 22.900767,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2741-076.100",
+   "Postcode": "200 17",
+   "ShortName": "",
+   "UniqueId": "29135",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "Λεωφ. Ιωαννίνων 301",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71"
+   ],
+   "City": "Πρέβεζα",
+   "CountryId": "69a2a201-296d-419b-88ba-70dd3148de51",
+   "CountryName": "ΠΡΕΒΕΖΑ",
+   "DealerGroup": "",
+   "DealerId": "baf4252b-12c0-47be-9854-aa7f760895fb",
+   "DealerName": "Ν. ΒΑΓΙΑΣ - ΣΠ. ΖΗΚΙΔΗΣ Ο.E.",
+   "Email": "zikidisp@otenet.gr",
+   "Fax": "2682-024.024",
+   "Importer": "",
+   "Latitude": 38.97797,
+   "Longitude": 20.74507,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2682-061.490",
+   "Postcode": "481 00",
+   "ShortName": "",
+   "UniqueId": "021227",
+   "WebsiteUrl": "http://zikidisgroup.renault-net.gr"
+  },
+  {
+   "AddressLine1": "BI.ΠE Πρέβεζας",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Πρέβεζα",
+   "CountryId": "69a2a201-296d-419b-88ba-70dd3148de51",
+   "CountryName": "ΠΡΕΒΕΖΑ",
+   "DealerGroup": "",
+   "DealerId": "a4aa01eb-417f-4cdc-8bf7-933977eb2003",
+   "DealerName": "Ν. ΒΑΓΙΑΣ - ΣΠ. ΖΗΚΙΔΗΣ Ο.E.",
+   "Email": "zikidisp@otenet.gr",
+   "Fax": "2682-041.915",
+   "Importer": "",
+   "Latitude": 38.9948,
+   "Longitude": 20.7298,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2682-041.914",
+   "Postcode": "481 00",
+   "ShortName": "",
+   "UniqueId": "21227",
+   "WebsiteUrl": "http://zikidisgroup.renault-net.gr"
+  },
+  {
+   "AddressLine1": "2ο χλμ. Ε.Ο. Αλεξανδρούπολης – Συνόρων",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Αλεξανδρούπολη",
+   "CountryId": "05273bfd-7791-4c5b-b0a8-028006b429fb",
+   "CountryName": "ΕΒΡΟΣ",
+   "DealerGroup": "",
+   "DealerId": "1d17fead-4146-412e-9e80-ee4b81858dac",
+   "DealerName": "ΠΑΠΑΖΟΓΛΟΥ ΧΡ. & ΣΙΑ Ο.Ε.",
+   "Email": "info@papazoglou-autogroup.gr",
+   "Fax": "25510-45362",
+   "Importer": "",
+   "Latitude": 40.853039,
+   "Longitude": 25.912058,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "25510-45363",
+   "Postcode": "681 00",
+   "ShortName": "",
+   "UniqueId": "29123",
+   "WebsiteUrl": "http://papazoglou.renault-net.gr"
+  },
+  {
+   "AddressLine1": "2ο χλμ. Φλώρινας - Θεσσαλονίκης",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Φλώρινα",
+   "CountryId": "ead5ce1d-5308-47c6-bd4d-8a77fe939569",
+   "CountryName": "ΦΛΩΡΙΝΑ",
+   "DealerGroup": "",
+   "DealerId": "c286b85b-2263-41d2-afd3-860dc7b4eae3",
+   "DealerName": "ΠΑΡΙΣΗΣ Α.E.",
+   "Email": "parisis@otenet.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 40.79517,
+   "Longitude": 21.437581,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2385 024 766",
+   "Postcode": "531 00",
+   "ShortName": "",
+   "UniqueId": "21235",
+   "WebsiteUrl": ""
+  },
+  {
+   "AddressLine1": "6ο χλμ Ε.Ο. Ναυπλίου-Άργους",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Ναύπλιο",
+   "CountryId": "497cca36-a76a-4258-8a18-c971dce689c6",
+   "CountryName": "ΑΡΓΟΛΙΔΑ",
+   "DealerGroup": "",
+   "DealerId": "8178cbf9-a8d7-43bc-baf6-641b2d12ca04",
+   "DealerName": "ΠΗΝΕΛΟΠΗ ΜΠΕΝΤΕΝΙΤΗ & ΣΙΑ O.E.",
+   "Email": "sales@bedeniti.gr",
+   "Fax": "2752-021.132",
+   "Importer": "",
+   "Latitude": 37.61031,
+   "Longitude": 22.7866,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2752-028.288",
+   "Postcode": "211 00",
+   "ShortName": "",
+   "UniqueId": "21672",
+   "WebsiteUrl": "https://bedeniti.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Κισσάμου 207",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Χανιά",
+   "CountryId": "795a2bea-32a9-4ca3-8dfa-6431fd48b8ab",
+   "CountryName": "ΧΑΝΙΑ",
+   "DealerGroup": "",
+   "DealerId": "8335b9ff-673c-4786-a185-947136bc7aa9",
+   "DealerName": "ΡΟΔΟΥΣΑΚΗΣ ΕΜΜ. ΓΕΩΡΓΙΟΣ",
+   "Email": "rodousakiscars@gmail.com",
+   "Fax": "2821-076.290",
+   "Importer": "",
+   "Latitude": 35.50701,
+   "Longitude": 24.00504,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2821-070.960",
+   "Postcode": "731 36",
+   "ShortName": "",
+   "UniqueId": "27781",
+   "WebsiteUrl": "https://rodousakis.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "A΄BI.ΠE Βόλου",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Βόλος",
+   "CountryId": "136416bb-1c5b-4c2a-a676-91d708917bcf",
+   "CountryName": "ΜΑΓΝΗΣΙΑ",
+   "DealerGroup": "",
+   "DealerId": "fa6ca767-e47c-428d-8b8a-189fa600d1bd",
+   "DealerName": "ΣΦΑΚΙΑΝΑΚΗΣ A.Ε.Β.E.",
+   "Email": "p_leivathinos@renault-sfakianakis.gr",
+   "Fax": "2421-066.514",
+   "Importer": "",
+   "Latitude": 39.37822,
+   "Longitude": 22.87799,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2421-067.106",
+   "Postcode": "385 00",
+   "ShortName": "",
+   "UniqueId": "21584",
+   "WebsiteUrl": "https://sfakianakis-volos.renault-net.gr/"
+  },
+  {
+   "AddressLine1": "Καρφά 22, Κοντάρι",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Χίος",
+   "CountryId": "9e5f52e5-d2ed-4d25-9b5b-4be081c706bb",
+   "CountryName": "ΧΙΟΣ",
+   "DealerGroup": "",
+   "DealerId": "2577eef3-75ea-4aa9-a985-d8f7b61ee926",
+   "DealerName": "ΦΡΑΓΚΑΚΗ  ΧΡ. ΚΑΙ ΣΙΑ Ε.Ε.",
+   "Email": "renchio2@otenet.gr",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 38.336084,
+   "Longitude": 26.143487,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2271 025 241",
+   "Postcode": "821 00",
+   "ShortName": "",
+   "UniqueId": "21223",
+   "WebsiteUrl": "http://"
+  },
+  {
+   "AddressLine1": "Καποδιστρίου 27 & Κολοκοτρώνη 10",
+   "AddressLine2": "",
+   "AddressLine3": "",
+   "AlwaysShowPeriodHeader": false,
+   "AvailableServices": [
+    "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+    "ff6cdca6-b177-47b9-b730-878c3aa74e8a"
+   ],
+   "City": "Ρόδος",
+   "CountryId": "d4e298b8-acdb-4319-979f-5fe632ab175d",
+   "CountryName": "ΔΩΔΕΚΑΝΗΣΑ",
+   "DealerGroup": "",
+   "DealerId": "0cd69dd8-8524-4241-9e23-5be5faabd8d3",
+   "DealerName": "VIOCAR Α.Ε.",
+   "Email": "",
+   "Fax": "",
+   "Importer": "",
+   "Latitude": 36.439104,
+   "Longitude": 28.235776,
+   "Mobile": "",
+   "NotifyByEmail": true,
+   "OpeningHours": {
+    "ExceptionHoursColumnsCount": 0,
+    "RegularHoursColumnsCount": 0,
+    "TemporaryHoursColumnsCount": 0,
+    "ExceptionHoursHeaderText": "OpeningHoursException",
+    "RegularHoursHeaderText": "Opening hours",
+    "TemporaryHourHeaderText": "OpeningHours-Temporary",
+    "Exceptions": [],
+    "Regular": [],
+    "Temporary": [],
+    "ExceptionHoursPeriods": [],
+    "RegularHoursPeriods": [],
+    "TemporaryHoursPeriods": []
+   },
+   "Phone": "2241-029-929",
+   "Postcode": "851 00",
+   "ShortName": "",
+   "UniqueId": "30007822",
+   "WebsiteUrl": ""
+  }
+ ],
+ "services": [
+  {
+   "Data": null,
+   "Description": "",
+   "Guid": "00000000-0000-0000-0000-000000000000",
+   "ID": "e8821c46-86c7-41b1-9b8e-a27c5d388d71",
+   "MimeType": "image/jpeg",
+   "Name": "Εξουσιοδοτημένος Διανομέας Renault"
+  },
+  {
+   "Data": null,
+   "Description": "",
+   "Guid": "00000000-0000-0000-0000-000000000000",
+   "ID": "ff6cdca6-b177-47b9-b730-878c3aa74e8a",
+   "MimeType": "image/jpeg",
+   "Name": "Εξουσιοδοτημένος Επισκευαστής Renault"
+  }
+ ],
+ "website": {
+  "Countries": [
+   {
+    "ID": "85c2eb6b-19b3-469b-96bb-6cb2f22ff810",
+    "Name": "ΑΙΤΩΛ/ΝΑΝΙΑ"
+   },
+   {
+    "ID": "497cca36-a76a-4258-8a18-c971dce689c6",
+    "Name": "ΑΡΓΟΛΙΔΑ"
+   },
+   {
+    "ID": "c4c49729-08a4-46e4-b88b-457e8c526f2e",
+    "Name": "ΑΤΤΙΚΗ"
+   },
+   {
+    "ID": "063c5a7a-e440-41fa-a45b-c30e2d9d0e30",
+    "Name": "ΑΧΑΪΑ"
+   },
+   {
+    "ID": "cb6c2b58-1537-499a-8b68-6ecc2b84a8a4",
+    "Name": "ΒΟΙΩΤΙΑ"
+   },
+   {
+    "ID": "977ee6eb-421c-44f7-b036-82a19a7d0d75",
+    "Name": "ΔΡΑΜΑ"
+   },
+   {
+    "ID": "d4e298b8-acdb-4319-979f-5fe632ab175d",
+    "Name": "ΔΩΔΕΚΑΝΗΣΑ"
+   },
+   {
+    "ID": "05273bfd-7791-4c5b-b0a8-028006b429fb",
+    "Name": "ΕΒΡΟΣ"
+   },
+   {
+    "ID": "fca53591-93c5-45bb-8454-084184ce606c",
+    "Name": "ΕΥΒΟΙΑ"
+   },
+   {
+    "ID": "9aa3cdeb-cd5f-4536-9d6e-18a280fd83ae",
+    "Name": "ΖΑΚΥΝΘΟΣ"
+   },
+   {
+    "ID": "568cdea8-06f6-4aaf-a080-8dcb7293db84",
+    "Name": "ΗΜΑΘΙΑ"
+   },
+   {
+    "ID": "b6255971-f9bf-48e3-8541-bac505acb4be",
+    "Name": "ΗΡΑΚΛΕΙΟ"
+   },
+   {
+    "ID": "ef9788d1-882b-4d17-a25b-47db43924742",
+    "Name": "ΘΕΣΠΡΩΤΙΑ"
+   },
+   {
+    "ID": "6d699cfb-8ba8-48d0-b54f-f954921fe8b1",
+    "Name": "ΘΕΣΣΑΛΟΝΙΚΗ"
+   },
+   {
+    "ID": "83895d32-314f-464e-9b12-b25af02e89bb",
+    "Name": "ΙΩΑΝΝΙΝΑ"
+   },
+   {
+    "ID": "8d1b64d6-f2af-45c4-b930-d096d919281c",
+    "Name": "ΚΑΒΑΛΑ"
+   },
+   {
+    "ID": "f86c51a9-3ca6-42e3-911b-34d3737ab493",
+    "Name": "ΚΑΡΔΙΤΣΑ"
+   },
+   {
+    "ID": "b02a0c07-705b-4e4c-abb8-52f9bafc51f7",
+    "Name": "ΚΑΣΤΟΡΙΑ"
+   },
+   {
+    "ID": "cbfd370e-2d68-4950-902f-a6bad4704a8c",
+    "Name": "ΚΕΡΚΥΡΑ"
+   },
+   {
+    "ID": "f4d86007-cc27-4cbd-ad42-869381a38aed",
+    "Name": "ΚΟΖΑΝΗ"
+   },
+   {
+    "ID": "4844ec17-d490-4af2-b569-9a15ee08b260",
+    "Name": "ΚΟΡΙΝΘΙΑ"
+   },
+   {
+    "ID": "ea291dab-393f-471a-ab10-bd224db587e1",
+    "Name": "ΚΥΚΛΑΔΕΣ"
+   },
+   {
+    "ID": "69c2ff81-bcf0-4043-9f3f-04e7b2c40762",
+    "Name": "ΛΑΚΩΝΙΑ"
+   },
+   {
+    "ID": "3b059c37-e85d-4248-8a14-8ed3b27cf392",
+    "Name": "ΛΑΡΙΣΑ"
+   },
+   {
+    "ID": "3b39d6fd-fde5-427b-9822-2931480d238c",
+    "Name": "ΛΕΣΒΟΣ"
+   },
+   {
+    "ID": "136416bb-1c5b-4c2a-a676-91d708917bcf",
+    "Name": "ΜΑΓΝΗΣΙΑ"
+   },
+   {
+    "ID": "6ca85ad7-a9c9-4d34-9228-8c01ce864c67",
+    "Name": "ΜΕΣΣΗΝΙΑ"
+   },
+   {
+    "ID": "dc443a92-cc03-4b0c-aee4-aecd640af9e5",
+    "Name": "ΞΑΝΘΗ"
+   },
+   {
+    "ID": "73a4d44f-6b70-4fe0-9211-fb7ef2b7ffd6",
+    "Name": "ΠΙΕΡΙΑ"
+   },
+   {
+    "ID": "69a2a201-296d-419b-88ba-70dd3148de51",
+    "Name": "ΠΡΕΒΕΖΑ"
+   },
+   {
+    "ID": "eaaaf18f-7d37-4697-9822-8ff47c603eff",
+    "Name": "ΡΕΘΥΜΝΟ"
+   },
+   {
+    "ID": "4e1c86ad-dfa9-40a0-a584-17cc2dd797be",
+    "Name": "ΣΕΡΡΕΣ"
+   },
+   {
+    "ID": "ca8b2683-1cd8-4d89-9a39-35f1340922f5",
+    "Name": "ΤΡΙΚΑΛΑ"
+   },
+   {
+    "ID": "d5a4b1f4-dd45-4e15-9263-e3299cc48f89",
+    "Name": "ΦΘΙΩΤΙΔΑ"
+   },
+   {
+    "ID": "ead5ce1d-5308-47c6-bd4d-8a77fe939569",
+    "Name": "ΦΛΩΡΙΝΑ"
+   },
+   {
+    "ID": "89a4679f-a536-4d93-8e0e-177c3837b5f9",
+    "Name": "ΧΑΛΚΙΔΙΚΗ"
+   },
+   {
+    "ID": "795a2bea-32a9-4ca3-8dfa-6431fd48b8ab",
+    "Name": "ΧΑΝΙΑ"
+   },
+   {
+    "ID": "9e5f52e5-d2ed-4d25-9b5b-4be081c706bb",
+    "Name": "ΧΙΟΣ"
+   }
+  ],
+  "Requests": [],
+  "Resources": [
+   {
+    "Code": "FormLabel",
+    "ID": "369d2984-521d-4208-a510-113e00f2bda3",
+    "Text": "Βρείτε τον πλησιέστερο εξουσιοδοτημένο διανομέα  ή επισκευαστή Renault"
+   },
+   {
+    "Code": "Services",
+    "ID": "4639df9c-b754-4578-b1e5-1467977d57c3",
+    "Text": "Παρεχόμενες υπηρεσίες"
+   },
+   {
+    "Code": "OpeningHoursTemporaryHeaderText",
+    "ID": "1382b2fa-1fa4-44e7-87d1-23d9ef08b774",
+    "Text": "OpeningHours-Temporary"
+   },
+   {
+    "Code": "Thursday",
+    "ID": "29a2233e-eaf4-439b-a871-27b469b01350",
+    "Text": "Thursday"
+   },
+   {
+    "Code": "SearchButton",
+    "ID": "f3173810-66e2-4035-82c2-27e7c0e5e825",
+    "Text": "Αναζήτηση"
+   },
+   {
+    "Code": "CountryLabel",
+    "ID": "43b2936b-74da-4ae2-bdad-2c6306757c73",
+    "Text": "Περιοχή"
+   },
+   {
+    "Code": "ContactType",
+    "ID": "33d7d437-9a37-471b-a234-2c9062af611e",
+    "Text": "Δηλώστε τον τύπο αιτήματος"
+   },
+   {
+    "Code": "SecondaryPeriod",
+    "ID": "dcbc6ca8-e5ef-49b1-aecd-2f63346fd4ed",
+    "Text": "Afternoon"
+   },
+   {
+    "Code": "Wednesday",
+    "ID": "0b739886-a2af-4300-a83b-3ae49168f6ea",
+    "Text": "Wednesday"
+   },
+   {
+    "Code": "FindADealer",
+    "ID": "ec6a0ede-16fb-476f-85e1-4682cda885dc",
+    "Text": "Βρείτε τον πλησιέστερο Εξουσιοδοτημένο Διανομέα ή Επισκευαστή Renault"
+   },
+   {
+    "Code": "Tel",
+    "ID": "91e171b7-4bf3-468d-b87f-471d1aae3090",
+    "Text": "Τηλ."
+   },
+   {
+    "Code": "LocationAcquired",
+    "ID": "577fbf90-6889-4f54-be04-511cda456d86",
+    "Text": "Βρέθηκε η παρούσα τοποθεσία"
+   },
+   {
+    "Code": "DealerList",
+    "ID": "94fff080-db10-41ac-981b-55d73339a672",
+    "Text": "Κατάλογος Εξουσιοδοτημένων Διανομέων και Επισκευαστών Renault"
+   },
+   {
+    "Code": "OpeningHours",
+    "ID": "7e6d2911-507d-43ce-834c-560d805bd157",
+    "Text": "Opening hours"
+   },
+   {
+    "Code": "Tuesday",
+    "ID": "d20e6b05-5022-4ffb-b918-59033cffabdf",
+    "Text": "Tuesday"
+   },
+   {
+    "Code": "Sunday",
+    "ID": "ff64ef6e-8e18-4257-8d93-5bb7e5b752db",
+    "Text": "Sunday"
+   },
+   {
+    "Code": "DirectionsUnavailable",
+    "ID": "5b69e929-b92c-4e0c-a775-5f7ec71e8708",
+    "Text": "Δεν βρέθηκαν οδηγίες"
+   },
+   {
+    "Code": "Fax",
+    "ID": "30dcbadc-48ad-4a1a-bfa1-65fb21e8b41e",
+    "Text": "Fax"
+   },
+   {
+    "Code": "Mobile",
+    "ID": "16aafd1e-ab1b-46bf-96fb-6822a3f513b0",
+    "Text": "Κινητό"
+   },
+   {
+    "Code": "ChangeRoute",
+    "ID": "d05b8957-2788-44cb-8f9a-69401d2de0e7",
+    "Text": "Αλλάξτε διαδρομή"
+   },
+   {
+    "Code": "Directions",
+    "ID": "20a8cdba-f835-43f6-977c-70a3f13c88dd",
+    "Text": "Οδηγίες μετάβασης"
+   },
+   {
+    "Code": "OpeningHoursClosedText",
+    "ID": "74501d66-bc78-46b4-a00b-74763c23bae2",
+    "Text": "OpeningHoursClosedText"
+   },
+   {
+    "Code": "ChooseStartingPoint",
+    "ID": "92254044-1d3b-4083-8c92-74a063414bc9",
+    "Text": "Διαλέξτε σημείο εκκίνησης"
+   },
+   {
+    "Code": "FormDescription",
+    "ID": "34fbc004-b7b7-4ab9-b33e-7b640fb614cc",
+    "Text": "Παρακαλούμε συμπληρώστε την παρακάτω φόρμα για να βρείτε τους Εξουσιοδοτημένους Διανομείς και Επισκευαστές Renault"
+   },
+   {
+    "Code": "YourSelectedModel",
+    "ID": "f998ee3b-b1e9-4ff7-b359-810aa5b2b3df",
+    "Text": "Your chosen model"
+   },
+   {
+    "Code": "Website",
+    "ID": "7fd4050e-88e5-4078-bf5e-81c5f61ef17e",
+    "Text": "Website"
+   },
+   {
+    "Code": "PageSize",
+    "ID": "28f92f9b-c97e-4765-99a6-898d2553006f",
+    "Text": "10"
+   },
+   {
+    "Code": "Friday",
+    "ID": "a0101d61-f234-4b16-b7ad-92501ed57981",
+    "Text": "Friday"
+   },
+   {
+    "Code": "EnterLocationManually",
+    "ID": "484024b4-f0a8-40b5-8335-9430944b4394",
+    "Text": "Επιλέξτε την τοποθεσία χειροκίνητα"
+   },
+   {
+    "Code": "MyCurrentLocation",
+    "ID": "84129cf2-f3f0-4320-b687-9611808aa2b2",
+    "Text": "Παρούσα τοποθεσία"
+   },
+   {
+    "Code": "NextButton",
+    "ID": "b36337db-8272-424e-a60c-981afb27d63b",
+    "Text": "Επόμενο"
+   },
+   {
+    "Code": "DrivingDirections",
+    "ID": "a6180544-5347-4888-9684-9cf635fbf81c",
+    "Text": "Οδηγίες οδικής μετάβασης"
+   },
+   {
+    "Code": "ShowRoute",
+    "ID": "6053f6f5-7e47-41de-b552-a646d40cf56b",
+    "Text": "Δείτε την διαδρομή"
+   },
+   {
+    "Code": "PleaseSelect",
+    "ID": "7ad0fe56-8c26-41c2-a35c-a72cc3876765",
+    "Text": "Επιλέξτε περιοχή"
+   },
+   {
+    "Code": "Monday",
+    "ID": "8fd984dd-8c83-4f03-8189-a928772c38d1",
+    "Text": "Monday"
+   },
+   {
+    "Code": "ServicesLabel",
+    "ID": "6a654c3f-02e5-4034-97a3-ad0b1ede78d9",
+    "Text": "Επιλέξτε τις υπηρεσίες για τις οποίες ενδιαφέρεστε"
+   },
+   {
+    "Code": "Results",
+    "ID": "d169642e-8c4f-4f0b-aff3-baf7b0665b4d",
+    "Text": "Βρέθηκαν {0} Εξουσιοδοτημένοι  Διανομείς που ικανοποιούν τις ανάγκες σας"
+   },
+   {
+    "Code": "VisitWebsite",
+    "ID": "eee99b85-4086-43bf-a35a-c426b7af8df1",
+    "Text": "Επισκεφθείτε την ιστοσελίδα"
+   },
+   {
+    "Code": "LocationUnavailable",
+    "ID": "425b04d7-d465-4dac-88fa-c7217c4cf3bb",
+    "Text": "Η παρούσα τοποθεσία δεν βρέθηκε"
+   },
+   {
+    "Code": "SelectLocation",
+    "ID": "6b32a55d-4697-4142-b0db-cdd9f56e10fc",
+    "Text": "Περιοχή"
+   },
+   {
+    "Code": "Email",
+    "ID": "dbf791b0-22b4-4f6c-bb96-d1433045ba40",
+    "Text": "Email"
+   },
+   {
+    "Code": "CloseLabel",
+    "ID": "224a9f67-11a1-417b-8351-d3abca9baf01",
+    "Text": "Κλείσιμο"
+   },
+   {
+    "Code": "PrimaryPeriod",
+    "ID": "7dde5fd5-d002-48aa-9793-d46f24efb411",
+    "Text": "Morning"
+   },
+   {
+    "Code": "NoDealersFound",
+    "ID": "2b0e85d7-e94b-4217-b126-db9d77e52694",
+    "Text": "Δεν βρέθηκε Εξουσιοδοτημένος Διανομέας ή Επισκευαστής Renault"
+   },
+   {
+    "Code": "ShowAllDealers",
+    "ID": "3fe9b64d-ed52-4385-beab-dd96aea7bdbe",
+    "Text": "Δείξτε όλους τους Εξουσιδοτημένους Διανομείς Reanult"
+   },
+   {
+    "Code": "Contact",
+    "ID": "e5a90d35-db89-4f6e-bb26-e0f4e41f9c8b",
+    "Text": "Επικοινωνήστε με τον Εξουσιοδοτημένο Διανομέα  ή Επισκευαστή Renault"
+   },
+   {
+    "Code": "OpeningHoursExceptionHeaderText",
+    "ID": "549d1169-f2c6-46e5-ac67-e45256dbf943",
+    "Text": "OpeningHoursException"
+   },
+   {
+    "Code": "ShowOnMap",
+    "ID": "637a06e5-5888-4500-9720-f4088b4ee273",
+    "Text": "Βρείτε τον Εξουσιοδοτημένο Διανομέα ή Επισκευαστή Renault στο χάρτη"
+   },
+   {
+    "Code": "ViewOnMap",
+    "ID": "d5844fbc-47fa-4173-a8c7-f877bc512fd1",
+    "Text": "Βρείτε στον χάρτη τον πλησιέστερο Εξουσιοδοτημένο Διανομέα ή Επισκευαστή Renault"
+   },
+   {
+    "Code": "ClearButton",
+    "ID": "074797d8-2450-484d-9c8b-f877d751a93f",
+    "Text": "Καθάρισμα"
+   },
+   {
+    "Code": "Saturday",
+    "ID": "ec06389d-31c1-489c-8131-fc246c2acd51",
+    "Text": "Saturday"
+   }
+  ]
+ }
+}

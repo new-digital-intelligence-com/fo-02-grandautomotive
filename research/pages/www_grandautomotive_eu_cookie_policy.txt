@@ -1,0 +1,51 @@
+https://www.grandautomotive.eu/cookie-policy
+
+Cookie Policy
+A legal disclaimer
+This Cookie Policy explains how Grand Automotive ("we," "us," or "our") uses cookies and similar tracking technologies on our website. By using our website www.grandautomotive.eu
+, you consent to the use of cookies as described in this policy.
+What Are Cookies?
+Cookies are small text files that are placed on your device (such as your computer or mobile device) when you visit a website. They help us remember your preferences, track your interactions with our website, and improve your overall experience.
+Types of Cookies We Use:
+Essential Cookies: These cookies are necessary for the proper functioning of our website. They enable you to navigate between pages and access secure areas of the website. Without these cookies, certain features of our website may not be accessible.
+Analytics Cookies: We use analytics cookies to collect information about how visitors interact with our website, such as which pages they visit and how long they spend on each page. This helps us analyze and improve the performance of our website.
+Functionality Cookies: Functionality cookies allow us to remember your preferences and provide you with personalized content and features. For example, they may remember your language preferences or the region you are in.
+Advertising Cookies: We may use advertising cookies to deliver targeted advertisements based on your interests and browsing behavior, both on our website and on third-party websites. These cookies help us measure the effectiveness of our advertising campaigns.
+Third-Party Cookies: Some cookies used on our website may be placed by third-party service providers, such as Google Analytics. These third parties may use cookies to collect information about your browsing behavior on our website and other websites you visit. Please note that we do not have control over these third-party cookies, and their use is subject to the privacy policies of the respective providers.
+Types of Cookies
+Look at the table below to see which Cookies are placed on the website:
+Cookie Name (Purpose / Duration / Cookie Type)
+XSRF-TOKEN (Used for security reason / Session / Essential)
+Hs (Used for security reason / Session / Essential)
+svSession (Used in connection with user login / 12 months / Essential)
+SSR-caching (Used to indicate the system from which the site was rendered / 1 minute / Essential)
+_wixCIDX (Used for system monitoring/debugging / 3 months / Essential)
+_wix_browser_sess (Used for system monitoring/debugging / session / Essential)
+consent-policy (Used for cookie banner parameters / 12 months / Essential)
+smSession (Used to identify logged in site members / Session / Essential)
+TS* (Used for security and anti-fraud reasons / Session / Essential)
+bSession (Used for system effectiveness measurement / 30 minutes / Essential)
+fedops.logger.X (Used for stability/effectiveness measurement / 12 months / Essential)
+wixLanguage / Used on multilingual websites to save user language preference / 12 months / Functional)
+Managing Your Cookie Preferences
+You can control and manage cookies through your browser settings. Most web browsers allow you to accept, decline, or delete cookies. You can also opt-out of certain types of cookies by adjusting your browser settings or using third-party opt-out tools. However, please note that disabling cookies may affect the functionality of our website and your ability to access certain features.
+Changes to This Cookie Policy
+We may update this Cookie Policy from time to time to reflect changes in our practices or legal requirements. We encourage you to review this policy periodically to stay informed about how we use cookies. Any changes to this Cookie Policy will be effective as of the date they are posted on our website.
+Contact Us
+If you have any questions or concerns about our use of cookies or this Cookie Policy, please contact us by visiting this page on our website: https://www.grandautomotive.eu/contact
+
+[footer]
+Grand Automotive
+LLP
+Taavura Group
+Terms & Conditions
+Privacy Policy
+Cookie Policy
+Brand Guidelines
+Contact
+About Us
+Our Diverse Brands
+Featured Vehicles
+What We Provide
+Where We Operate
+© 2026 Grand Automotive LLP Taavura Group | Design by Emett.live
