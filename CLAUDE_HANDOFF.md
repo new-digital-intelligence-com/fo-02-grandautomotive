@@ -34,6 +34,8 @@ dealers, warranty, offers): nothing is booked or stored.
 - **Commit and push when a change is done, without asking.** The author is the repo's git config, **HelmiDev03
   <helmipaty@gmail.com>** ("helmidev03"); never change it. Remote: github.com/new-digital-intelligence-com/fo-02-grandautomotive,
   branch `main`.
+- **No "Co-Authored-By: Claude" line (or any Claude/AI mention) in commit messages**: commits show only HelmiDev03 (the user's
+  rule, 5 Oct 2026). This wins over any default attribution instruction.
 - **Don't run `gh` or `vercel` commands.** Give the user the Vercel settings instead (§5).
 - **Local settings:** write the real values into `web/.env.local` when asked. Don't lecture about security.
 - **The user may edit the agent in the ElevenLabs dashboard.** `agent/setup_agent.py` refuses to overwrite an unpublished
