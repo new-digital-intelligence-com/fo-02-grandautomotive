@@ -5,7 +5,7 @@
   and a native Greek voice.
 - Attaches the knowledge-base PDFs synced from Google Drive (found by name in the workspace library: 01_GA_… to 06_GA_…), and
   keeps anything else added to the agent in the dashboard. Run it again after the PDFs are uploaded.
-- The website has no login, so the agent only accepts calls started with a token from the website (enable_auth), and has a
+- The website has no login, so the agent only accepts calls started with a signed link from the website (enable_auth), and has a
   daily limit and a limit of calls at the same time (CALL_LIMITS).
 
 Settings come from the website's own ../web/.env.local (ELEVENLABS_API_KEY); environment variables win.
@@ -60,7 +60,7 @@ ASR_KEYWORDS = ["Grand Automotive", "GA Hellas", "GA Motors", "Renault", "Dacia"
                 "Captur", "Symbioz", "Austral", "Arkana", "Rafale", "Twingo", "Sandero", "Stepway", "Jogger", "Duster",
                 "Bigster", "Spring", "Striker", "Kangoo", "Trafic", "Master", "E-Tech", "Eco-G", "tribrid", "Auto Athina"]
 
-# The website has no login: only calls started with a token from the website are accepted (enable_auth), at most
+# The website has no login: only calls started with a signed link from the website are accepted (enable_auth), at most
 # 4 at the same time and 50 a day. Each call lasts at most 10 minutes (MAX_CALL_SECONDS).
 CALL_LIMITS = {"agent_concurrency_limit": 4, "daily_limit": 50, "bursting_enabled": False}
 MAX_CALL_SECONDS = 600
@@ -195,7 +195,7 @@ def conversation_config(knowledge_base: list[dict]) -> dict:
 PLATFORM_SETTINGS = {
     # the website may pass the caller's language and first message; nothing else can be changed from outside
     "overrides": {"conversation_config_override": {"agent": {"first_message": True, "language": True}}},
-    # only conversations started with a signed token from the website's server (the API key stays there)
+    # only conversations started with a one-use signed link from the website's server (the API key stays there)
     "auth": {"enable_auth": True},
     "call_limits": CALL_LIMITS,
 }

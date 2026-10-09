@@ -28,8 +28,8 @@ dealers, warranty, offers): nothing is booked or stored.
 ## 2. How the user wants to work (important)
 
 - **Never use subagents or workflows.** Do all the work yourself.
-- **Don't spend ElevenLabs credits testing.** Never start a conversation with Katerina and never request a voice token from
-  `/api/voice/token` (it creates a conversation). Free API reads are fine. Give the user test questions with the expected answers.
+- **Don't spend ElevenLabs credits testing.** Never start a conversation with Katerina and never request a call link from
+  `/api/voice/signed-url` (it reserves a conversation). Free API reads are fine. Give the user test questions with the expected answers.
 - **One step at a time, in simple English, with short answers.** The user isn't a native English speaker.
 - **Commit and push when a change is done, without asking.** The author is the repo's git config, **HelmiDev03
   <helmipaty@gmail.com>** ("helmidev03"); never change it. Remote: github.com/new-digital-intelligence-com/fo-02-grandautomotive,
@@ -82,7 +82,7 @@ FO-02 - Greek - Elevenlabs v4 - for Grand Automotive/
 - ASR keywords: brand and model names (Renault, Dacia, Clio, Duster…) so Greek speech recognition catches them.
 - **Numbers:** digits in the transcript (`text_normalisation_type: elevenlabs`). Prices without a thousands dot («20900 ευρώ»,
   so the voice reads one number; the site shows 20.900); phone numbers digit by digit («2 1 4, 4 4 4, 4 6 4 0», the site joins them).
-- **No login on the site, so:** `enable_auth` (only tokens from our server), `call_limits` 4 at the same time and 50 a day
+- **No login on the site, so:** `enable_auth` (only one-use signed links from our server), `call_limits` 4 at the same time and 50 a day
   (`CALL_LIMITS` in `setup_agent.py`), and 3 calls per 10 minutes / 10 a day per visitor IP on the site (`web/src/lib/rateLimit.ts`).
 - First message: «Γεια σας, είμαι η Κατερίνα από την Grand Automotive. Πώς μπορώ να σας βοηθήσω σήμερα;»
 - Escalations in the prompt: danger → 112; breakdown → roadside number in the car documents (Dacia: 5 years roadside assistance),
@@ -113,7 +113,13 @@ FO-02 - Greek - Elevenlabs v4 - for Grand Automotive/
 
 **Website** `web/` (Next.js 16.3.5, same setup as Budget Arabia without accounts, MongoDB, tools or password):
 - Greek by default, English switch, call button with voice orb, status, timer, mute, live transcript, sample questions.
-- `POST /api/voice/token` → one-use WebRTC token (the API key stays on the server), with the per-IP limit.
+- `POST /api/voice/signed-url` → one-use signed **WebSocket** link (the API key stays on the server), with the per-IP limit.
+  **Since 9 Oct 2026 the call uses WebSocket, not WebRTC.** The client noticed «Γεια σας» was "spoken half"; the recording
+  confirmed it (silence, then the voice switches on at full volume mid-sound: about the first 0.1 s of «Γεια» lost). Cause:
+  over WebRTC Katerina speaks as soon as the call connects, before the browser plays LiveKit's audio track, and the SDK has
+  no option to wait. Over WebSocket the SDK queues audio that arrives before the speaker is ready (`pendingAudioEvents` in
+  `@elevenlabs/client`) and plays it from the first sound; the mic still has echo cancellation and noise suppression.
+  Same cost: ElevenLabs bills agents per minute of call. Budget Arabia still uses WebRTC (same risk, not reported there).
 - Colours from grandautomotive.eu (charcoal, warm sand, copper); the company's logo is **not** used (its brand guidelines ask
   for permission first), only the name in text.
 

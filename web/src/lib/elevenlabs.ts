@@ -10,18 +10,24 @@ function credentials() {
 }
 
 /**
- * A one-use WebRTC token for a voice call with Katerina. The browser starts the call with it and never sees the API key.
- * The agent only accepts calls started with such a token (enable_auth, set by ../agent/setup_agent.py).
+ * A one-use signed WebSocket link for a voice call with Katerina. The browser starts the call with it and never sees the
+ * API key. The agent only accepts calls started with such a link (enable_auth, set by ../agent/setup_agent.py).
+ *
+ * WebSocket, not WebRTC: over WebRTC Katerina starts speaking before the browser plays the call's audio track, which cut
+ * the first tenth of a second of her greeting («Γεια σας»). Over WebSocket the SDK keeps audio that arrives early and plays
+ * it from the first sound. Both are billed the same, per minute of call.
  */
-export async function conversationToken(): Promise<string> {
+export async function signedUrl(): Promise<string> {
   const { apiKey, agentId } = credentials();
-  const response = await fetch(`${API_BASE}/conversation/token?${new URLSearchParams({ agent_id: agentId })}`, {
+  // include_conversation_id makes the link usable once, like the WebRTC token was
+  const query = new URLSearchParams({ agent_id: agentId, include_conversation_id: "true" });
+  const response = await fetch(`${API_BASE}/conversation/get-signed-url?${query}`, {
     headers: { "xi-api-key": apiKey },
     cache: "no-store",
   });
   if (!response.ok) {
-    throw new Error(`ElevenLabs conversation token failed with ${response.status}`);
+    throw new Error(`ElevenLabs signed URL failed with ${response.status}`);
   }
-  const body = (await response.json()) as { token: string };
-  return body.token;
+  const body = (await response.json()) as { signed_url: string };
+  return body.signed_url;
 }
