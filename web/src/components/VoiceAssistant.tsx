@@ -61,19 +61,18 @@ function Assistant() {
       setError(t.micError);
       return;
     }
-    const response = await fetch("/api/voice/signed-url", { method: "POST" }).catch(() => null);
+    const response = await fetch("/api/voice/token", { method: "POST" }).catch(() => null);
     if (!response?.ok) {
       setError(response?.status === 429 ? t.tooManyCalls : t.startError);
       return;
     }
-    const { signedUrl } = (await response.json()) as { signedUrl: string };
+    const { conversationToken } = (await response.json()) as { conversationToken: string };
     setLines([]);
     setNow(Date.now());
     // Greek is Katerina's default; English uses the agent's "en" preset (English greeting, same voice).
-    // WebSocket, not WebRTC: WebRTC cut the start of her greeting (see src/lib/elevenlabs.ts).
     conversation.startSession({
-      signedUrl,
-      connectionType: "websocket",
+      conversationToken,
+      connectionType: "webrtc",
       ...(language === "en" ? { overrides: { agent: { language: "en" } } } : {}),
     });
   }

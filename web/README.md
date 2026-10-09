@@ -5,11 +5,9 @@ A public page where visitors talk to **Katerina**, the Greek voice assistant for
 
 - Greek by default, English switch. The switch also sets the call language (the agent's `en` preset).
 - **No sign-up and no sign-in**: open the page, press the button, talk.
-- The browser gets a one-use signed WebSocket link from `POST /api/voice/signed-url`; the ElevenLabs API key stays on the
-  server. WebSocket, not WebRTC: over WebRTC the first tenth of a second of Katerina's greeting was cut (9 Oct 2026); the
-  SDK keeps WebSocket audio that arrives early and plays it from the first sound. Both are billed the same, per minute.
+- The browser gets a one-use WebRTC token from `POST /api/voice/token`; the ElevenLabs API key stays on the server.
 - Credits are protected without a login:
-  - the agent only accepts calls started with such a link (`enable_auth`), at most 4 at the same time and 50 a day, each up
+  - the agent only accepts calls started with such a token (`enable_auth`), at most 4 at the same time and 50 a day, each up
     to 10 minutes (`../agent/setup_agent.py`);
   - each visitor (IP) may start 3 calls per 10 minutes and 10 a day (`src/lib/rateLimit.ts`, kept in the server's memory, so on
     Vercel it slows a visitor down rather than counting exactly).
