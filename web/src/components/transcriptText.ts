@@ -2,6 +2,12 @@
 const AUDIO_TAG = /\s*\[[a-z][a-z' -]{0,30}\]\s*/gi;
 
 /**
+ * A tool call the LLM wrote as text instead of calling it, such as
+ * [language_detection(language="el", reason="…")] (seen on 5 Nov 2026; the prompt forbids it, this is the safety net).
+ */
+const TOOL_CALL = /\s*\[?\s*\b[a-z]+(?:_[a-z]+)+\s*\([^()]*\)\s*\]?\s*/gi;
+
+/**
  * Single digits with spaces, commas or dashes between them. Katerina writes phone numbers this way
  * ("2 1 4, 4 4 4, 4 6 4 0") so the voice reads them digit by digit.
  */
@@ -12,10 +18,11 @@ const PRICE = /(?<![\d.,])\d{4,7}(?=[  ]?(?:ευρώ|€|euros?\b))/gi;
 
 /**
  * Text as the transcript shows it: a number spelled out digit by digit shown whole (2144444640), prices with the
- * usual separator (20.900 ευρώ, 20,900 euros), and no voice tags.
+ * usual separator (20.900 ευρώ, 20,900 euros), and no voice tags or tool calls.
  */
 export function transcriptText(text: string): string {
   return text
+    .replace(TOOL_CALL, " ")
     .replace(AUDIO_TAG, " ")
     .replace(SPACED_DIGITS, (run) => {
       const digits = run.replace(/\D/g, "");

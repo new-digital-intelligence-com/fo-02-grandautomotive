@@ -1,6 +1,6 @@
 # Handoff – Grand Automotive Greek voice assistant (demo)
 
-Read this first when continuing the project in a new session. Last updated: **5 October 2026**.
+Read this first when continuing the project in a new session. Last updated: **5 November 2026**.
 
 > Independent from the other NDI projects (Budget Arabia `../FO-02a - BudgetRentaCar Arabia`, CDA). The only shared things are
 > the ElevenLabs account (same API key as Budget Arabia) and the way the project is built, copied from Budget Arabia.
@@ -87,6 +87,10 @@ FO-02 - Greek - Elevenlabs v4 - for Grand Automotive/
 - First message (since 9 Oct 2026): «Καλώς ήρθατε στην Grand Automotive! Είμαι η Κατερίνα. Πώς μπορώ να σας βοηθήσω
   σήμερα;» The old one began with «Γεια σας» and the client heard half of «Γεια» (see the Website notes below). English
   preset greeting unchanged.
+- **Language switch (5 Nov 2026):** in one call Gemini *wrote* the tool call as text («[language_detection(language="el", …)]»)
+  before calling it: the site showed it, and the call recording shows about 4 s of speech before the repeated greeting, so it was
+  most likely said aloud too. The prompt now says a switch is silent and direct (real tool call, no text in brackets, no new
+  greeting, answer straight away) and `web/src/components/transcriptText.ts` hides any tool call written as text.
 - Escalations in the prompt: danger → 112; breakdown → roadside number in the car documents (Dacia: 5 years roadside assistance),
   dealer or customer care; complaints → customer care; "a person" → transfer **not connected** in this demo, give customer care.
 
@@ -182,3 +186,4 @@ pressing the call button; agent config and RAG index statuses read back from the
 | «Πουλάτε Nissan στην Ελλάδα;» | No: the group sells Nissan elsewhere; in Greece Renault, Dacia, INEOS, and Alpine from 2027 |
 | "Where can I see Renault at Auto Athina?" | English: Metropolitan Expo, Hall 3, Stand A1, until 11 October |
 | «Θέλω να μιλήσω με κάποιον υπάλληλο» | Transfer not connected in the demo; customer care number, Monday–Friday 9 to 5 |
+| "Can you speak English?", then "Switch to Greek, please" | Switches at once each time; no «[language_detection…]» text, no new greeting |
